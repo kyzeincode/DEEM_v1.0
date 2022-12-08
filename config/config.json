@@ -1,7 +1,7 @@
 {
-    "token": "MTAzMTM4OTE2NTgzODkzNDAxNw.G004Yx.mtRBOyqiu5JFYrj5QghCSNegmNvmR-vjHxGS5g",
+    "token": "-",
     "prefix": "+",
-    "mongodb": "mongodb+srv://zumudata:SWpaBDX04sTPkQAY@cluster0.tpcuwzv.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb": "-",
     "ownerIDS": ["970342971335639130", "1037745089868476576"],
     "partnerIDS": ["970342971335639130","1015250565766324255", "844667382739763211"],
     "color": "#e095f7"
